@@ -17,7 +17,7 @@
 - degree of freedom
 - smooth edges for wiring
 - large space for wire bending
-  
+- some parts were divided to make easier for assembly
   
   
   </div>
