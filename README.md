@@ -18,6 +18,7 @@
 - smooth edges for wiring
 - large space for wire bending
 - some parts were divided to make easier for assembly
+- we can add some rubber cups to hide screws
   
   
   </div>
