@@ -16,7 +16,7 @@
 - لم التزم بابعاد الذراع
 - degree of freedom
 - smooth edges for wiring
-  
+- large space for wire bending
   
   
   
