@@ -15,7 +15,9 @@
   
 - لم التزم بابعاد الذراع
 - degree of freedom
-
+- smooth edges for wiring
+  
+  
   
   
   </div>
