@@ -20,6 +20,9 @@
 - some parts were divided to make easier for assembly
 - we can add some rubber cups to hide screws
 - تم احترام اطوال قطع الذراع ابتداءا من محاور الدوران بينما تم التعديل على العرض و السمك ل................................
+- no 3d printing expirience 
+  
+  
   
   
   </div>
